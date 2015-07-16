@@ -1,3 +1,4 @@
 AlgorithmDesign
 ===============
-Coursera's Algorithms Class
+Implementation:
+Sorting
